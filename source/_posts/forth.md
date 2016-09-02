@@ -1,10 +1,16 @@
 ### HelloJS 八週心得
 
 
-> 我覺得
-123132132123
+> 學習技術統整
+* GIT版控
+* npm
+* hexo 
+* api
+* sails
+* node.js
+* React + Redux + React Native
+* Jenkins and Docker
 
-> 還有
-> 再來
 
-![Alt text](img/truckteam.jpg)
+
+![Alt text](./truckteam.jpg)
